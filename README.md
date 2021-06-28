@@ -12,10 +12,20 @@ Hi! I'm Chen Schmidt. On my YouTube Channel, you will find GAMEPLAYS, SCRIPTING,
 
 - JOIN ON OUR YOUTUBE COMMUNITY TO SUPPORT MY WORKS - https://www.youtube.com/channel/UCzikarATpDgTHgSY-JwbrRw/join
 
+--------------------------------------------------------------------------------------------------------------------
+CHENH4X - CLEO SA-MP Launcher :ghost:
+--------------------------------------------------------------------------------------------------------------------
+
+- LINKS AND RESOURCES :
+
+:point_right: -  V2 : https://youtu.be/YylOMlD_uj0
+
+:point_right: -  V3 : https://youtu.be/csvh1vq4bzI
 
 --------------------------------------------------------------------------------------------------------------------
 CHENH4X SA-MP Launcher :ghost:
 --------------------------------------------------------------------------------------------------------------------
+
 Hello Everyone. Thank you so much for supporting me. Today I will release my CHENH4X SA-MP Launcher. Well everyone already knows how this Launcher works, this Launcher is perfect for MID-RANGE to HIGH-END devices from free roam to roleplay servers. This Launcher performs well as you can see on our gameplay it's the smoothest APK of all universal APK released.
 
 - LINKS AND RESOURCES :
