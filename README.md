@@ -22,9 +22,11 @@ THE FIRST EVER SA-MP UNIVERSAL APK WITH CLEO SCRIPTS SUPPORT, FULL + LITE VERSIO
 
 - LINKS AND RESOURCES :
 
-:point_right: - YOUTUBE LINK + GAMEPLAY + FULL INSTALLATION TUTORIAL V3 (LATEST VERSION) : https://youtu.be/csvh1vq4bzI
+:point_right: -  V4  : https://youtu.be/DUGzB1nI3h4
 
-:point_right: -  V2 (OLD VERSION) : https://youtu.be/YylOMlD_uj0
+:point_right: -  V3  : https://youtu.be/csvh1vq4bzI
+
+:point_right: -  V2  : https://youtu.be/YylOMlD_uj0
 
 --------------------------------------------------------------------------------------------------------------------
 CHENH4X SA-MP Launcher :ghost:
