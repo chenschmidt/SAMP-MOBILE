@@ -4,8 +4,6 @@ SA:MP UNIVERSAL STABLE APK RELEASES
 
 Hi! I'm Chen Schmidt. On my YouTube Channel, you will find GAMEPLAYS, SCRIPTING, TUTORIALS and APK RELEASES contents. I love playing online games, writing codes, developing android projects and sharing my experiences with you. Subscribe to see more GAMEPLAYS, SCRIPTING, TUTORIALS and APK RELEASES on your feed!
 
-- WIKIPEDIA - https://en.wikipedia.org/wiki/User:Chen_Schmidt
-
 - CLICK ON RELEASES TO DOWNLOAD 
 
 - SUBSCRIBE ON MY YOUTUBE CHANNEL - https://www.youtube.com/c/ChenDeveloper
@@ -21,6 +19,8 @@ CHENH4X - CLEO SA-MP LAUNCHER V3 • CRACKED AND DEVELOPED BY CHEN
 THE FIRST EVER SA-MP UNIVERSAL APK WITH CLEO SCRIPTS SUPPORT, FULL + LITE VERSION SUPPORT, SPECIAL COMMANDS AND MANY MORE!
 
 - LINKS AND RESOURCES :
+
+:point_right: -  V5  : https://youtu.be/zuBthQ7yfg8
 
 :point_right: -  V4  : https://youtu.be/DUGzB1nI3h4
 
@@ -86,11 +86,17 @@ ARIZONA UNIVERSAL APK PATCH - DEVELOPER CHEN
 ARZMHAX UNIVERSAL APK PATCH - DEVELOPER CHEN
 :point_right: -  ARZMHAX PATCH : https://youtu.be/7APwOPc9OYU
 
+ARZMHAX - CLEO V1.5
+:point_right: -  ARZMHAX - CLEO V1.5 : https://youtu.be/xintNeQqAD4
+ 
 V1.5 - DEVELOPER CHEN
 :point_right: -  V1.5 : https://youtu.be/fZvKdJC5czM
 
 V1.6 - DEVELOPER CHEN
 :point_right: -  V1.6 : https://youtu.be/mJFAhazLin4
+
+V1.7 - DEVELOPER CHEN
+:point_right: -  V1.7 : https://youtu.be/q-A02jpZySw
 
 --------------------------------------------------------------------------------------------------------------------
 PROJECT REDHAT (CHENH4X) RELEASES - DEVELOPER CHEN :ghost:
